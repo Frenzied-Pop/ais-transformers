@@ -116,21 +116,6 @@ Transformer-based models, originally built for text, can be adapted to:
 
 ---
 
-## 🔒 JWICS Note
-
-If CIA AIML's S3 bucket contains:
-
-- Transformer-based pretrained encoders for behavior modeling
-- YOLOv11 for SAR spoof detection or port surveillance
-
-…request updomaining to JWICS if mission-relevant. Highlight:
-
-- Pattern discovery for dark ship tracking
-- AI-assisted triage of vessel behavior anomalies
-- Pretrained models enabling GPU-efficient experimentation
-
----
-
 ## 📎 Next Steps
 
 - Build a prototype: tokenized sequences + MLM + unsupervised loss
@@ -144,11 +129,7 @@ If CIA AIML's S3 bucket contains:
 
 This guide was prepared as part of an internal research effort on the application of large language models and time series transformers to maritime domain awareness.
 
-*Contributor: Tim*
-
 ---
-
-**[GitHub Repo Placeholder]**: `https://github.com/yourusername/ais-transformers`
 
 > 🧠 "The patterns are there. We just need to mask the noise until the signal shines through."
 
