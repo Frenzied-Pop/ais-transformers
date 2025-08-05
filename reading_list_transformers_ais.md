@@ -86,8 +86,3 @@ ais-transformers/
 > "Reading the papers is how you learn the theory. Building the pipeline is how you internalize it."
 
 ---
-
-*Contributor: Tim*
-
-[GitHub Repo Placeholder] → `https://github.com/yourusername/ais-transformers`
-
